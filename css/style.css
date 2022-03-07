@@ -66,6 +66,10 @@ section {
   min-height: 100vh;
 }
 
+.top-title {
+  font-weight: 200;
+}
+
 .top-info-desc {
   font-size: 14px;
 }
