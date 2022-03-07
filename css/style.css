@@ -60,3 +60,16 @@ span i {
 .blog-desc {
   color: #666666;
 }
+
+section {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.top-info-desc {
+  font-size: 14px;
+}
+
+article img {
+  border-radius: 5px;
+}
